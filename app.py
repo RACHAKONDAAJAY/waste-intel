@@ -1,4 +1,4 @@
-
+from src.detection import detect_objects
 from pathlib import Path
 from datetime import date
 
